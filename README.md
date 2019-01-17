@@ -6,6 +6,10 @@
 ![MIT](https://img.shields.io/dub/l/vibe-d.svg)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
+## Notes
+
+> This fork removed uncommon permissions on iOS. It only supports location, camera, microphone and photo permission.
+
 Request user permissions from React Native, iOS + Android
 
 | Version | React Native Support |
